@@ -1,2 +1,2 @@
-# Datasciecntest
+# Datascientest
 project of datascientest
